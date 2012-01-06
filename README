@@ -1,16 +1,16 @@
-Title: Hacking on Openstack's Nova source code.
+Title: Hacking on OpenStack's Nova source code.
 
 Abstract:
 Understanding the source code of an open source project is essential
 not only to developers, but also to operators.
-Nova, being the main project of Openstack, covers the core functionality
-in which Openstack provides.
+Nova, being the main project of OpenStack, covers the core functionality
+in which OpenStack provides.
 Therefore understanding the inner structure of Nova should be benefitial
 to people related in all aspects.
 This talk is about the structure of Nova's source code with an example
-to help you to understand the overall process scheme of Openstack.
+to help you to understand the overall process scheme of OpenStack.
 At the end, I briefly introduce how you can contribute
-to the Openstack community.
+to the OpenStack community.
 
 Made with LibreOffice 3.3.4 and GIMP 2.6.11 on Ubuntu 11.04 x86_64 natty
 

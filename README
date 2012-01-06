@@ -1,3 +1,8 @@
 Made with LibreOffice 3.3.4 on Ubuntu 11.04 x86_64 natty
 
-sudo apt-get install ttf-ubuntu-font-family ttf-mscorefonts-installer
+Ubuntu users
+$ sudo apt-get install ttf-ubuntu-font-family ttf-mscorefonts-installer
+$ soffice COSUG-2012.odp -nologo
+
+MAC OSX users
+http://font.ubuntu.com/

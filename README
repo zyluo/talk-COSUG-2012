@@ -5,7 +5,7 @@ Understanding the source code of an open source project is essential
 not only to developers, but also to operators.
 Nova, being the main project of OpenStack, covers the core functionality
 in which OpenStack provides.
-Therefore understanding the inner structure of Nova should be benefitial
+Therefore understanding the inner structure of Nova should be beneficial
 to people related in all aspects.
 This talk is about the structure of Nova's source code with an example
 to help you to understand the overall process scheme of OpenStack.
